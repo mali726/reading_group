@@ -35,17 +35,22 @@ Please choose an available slot if you'd like to present a paper!
 
 ### Upcoming Meeting
 ---
-* **Mon 04 May 2020**
+* **Mon 11 May 2020**
 
-	- **Paper:** [BLEU might be Guilty but References are not Innocent](https://arxiv.org/pdf/2004.06063.pdf)
-	- **Moderator:** Fernando
+	- **Paper:** [Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network](https://www.aclweb.org/anthology/P19-1345.pdf)
+	- **Moderator:** Mali
 	- **Room:** Google Hangouts
 
 
 
 Past Meetings
 --------------- 
+* **Mon 04 May 2020**
 
+	- **Paper:** [BLEU might be Guilty but References are not Innocent](https://arxiv.org/pdf/2004.06063.pdf)
+	- **Moderator:** Fernando
+	- **Room:** Google Hangouts
+	
 * **Mon 27 Apr 2020**
 
 	- **Paper:** [“Trust me, I have a Ph.D.”: A Propensity Score Analysis on the Halo Effect ofDisclosing One’s Offline Social Status in Online Communities](https://arxiv.org/pdf/2004.00105.pdf) (ICWSM-20)
@@ -90,7 +95,9 @@ Past Meetings
 
 * **Mon 17 Feb 2020**
 
-
+	- **Paper:** [Detecting Customer Complaint Escalation with Recurrent Neural Networks and Manually-Engineered Features](https://www.aclweb.org/anthology/N19-2008.pdf)
+	- **Moderator:** Mali
+	- **Room:** G12-Blue
 
 * **Mon 10 Feb 2020**
 
